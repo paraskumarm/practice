@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "timestamp": 1760696981142,
+  "interval": {
+    "start": 1760696971142,
+    "end": 1760696981142
+  },
+  "sources": [],
+  "globalStats": {
+    "totalSources": 0,
+    "totalClients": 0,
+    "totalRequests": 0,
+    "averageLatency": 0,
+    "globalErrorRate": 0,
+    "systemHealth": {
+      "cpuUsage": 0,
+      "memoryUsage": 0,
+      "storageUsage": 0
+    }
+  }
+}

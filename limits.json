@@ -1,0 +1,8 @@
+{
+  "clients": {
+    "abc123": { "requests_per_hour": 1000 },
+    "xyz789": { "requests_per_hour": 500 },
+    "def456": { "requests_per_hour": 2000 },
+    "ghi789": { "requests_per_hour": 800 }
+  }
+}
